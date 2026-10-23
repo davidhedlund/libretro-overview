@@ -16,7 +16,7 @@ Feedback, ideas, and suggestions for additional data points to make this even mo
 
 - **Automated Data Fetching**: Retrieves the latest `.info` file archives and Libretro documentation indexes.
 
-- **Buildbot Auditing**: Scans nightly Buildbot indexes across multiple platforms (Android, Apple, Linux, Nintendo, PlayStation, Windows, etc.).
+- **Buildbot Auditing**: Scans nightly Buildbot indexes across multiple platforms (Android, Apple, GNU/Linux, Nintendo, PlayStation, Windows, etc.).
 
 - **Data Standardization**: Converts raw Buildbot indexes into normalized JSON data (`cache/core-index.json`).
 
