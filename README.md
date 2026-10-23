@@ -1,5 +1,7 @@
 # Libretro Core Metadata & Buildbot Audit Pipeline
 
+> 🔍 **Quick Access:** **[Complete Master Report (`docs/all.md`)](docs/all.md)** — View all core metadata, documentation status, and OS/architecture support matrices combined in a single document.
+
 An automated metadata parser and report generator that cross-references local Libretro core info files, documentation indexes, and Libretro Buildbot binary availability across platforms and architectures.
 
 ## Features
@@ -14,3 +16,4 @@ An automated metadata parser and report generator that cross-references local Li
 > [!NOTE]
 > All Markdown files inside the `docs/` directory are **automatically generated** on a daily schedule via GitHub Actions running `generate.sh`. Any manual changes made to files in `docs/` will be overwritten.
 
+Standalone category breakdowns (such as specific core file availability, documentation status, and individual OS/architecture matrices) can be found in the individual `.md` files within the `docs/` directory.
