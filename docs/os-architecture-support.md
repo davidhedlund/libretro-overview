@@ -1,4 +1,4 @@
-# OS and Architecture Support Matrix
+# OS and architecture support
 ## Android
 
 | Core | arm64-v8a | armeabi | armeabi-v7a | x86 | x86_64 |

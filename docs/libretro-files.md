@@ -1,4 +1,4 @@
-# Core Files
+# Docs and info files
 | Core | Has info | Has doc |
 |---|---|---|
 | 2048 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/2048_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/2048.md) |
