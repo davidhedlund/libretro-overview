@@ -6,6 +6,8 @@
 
 The goal of this project is to consolidate key technical data, metadata, and core information into organized, easy-to-reference tables. Having a centralized overview like this helps speed up research, streamline decision-making, and eliminate the need to repeatedly look up scattered details across different sources.
 
+This aggregated data provides a convenient overview of supported operating systems and architectures for users, while also serving as a practical diagnostic tool for developers to identify missing or obsolete `.info` files and documentation across Libretro projects.
+
 This repository serves as an automated metadata parser and report generator that cross-references local Libretro core info files, documentation indexes, and Libretro Buildbot binary availability across platforms and architectures.
 
 Feedback, ideas, and suggestions for additional data points to make this even more useful for contributors are always welcome! Feel free to open an issue or start a discussion.
