@@ -2,11 +2,6 @@
 
 > 🔍 **Quick Access:** **[Complete Master Report (`docs/all.md`)](docs/all.md)** — View all core metadata, documentation status, and OS/architecture support matrices combined in a single document.
 
-> [!IMPORTANT]
-> **Reporting Issues:** Please **do not** report upstream core, metadata, or documentation issues in this repository. 
-> - Report `.info` file issues to the [libretro-super issue tracker](https://github.com/libretro/libretro-super/issues).
-> - Report documentation issues to the [Libretro docs issue tracker](https://github.com/libretro/docs/issues).
-
 ## Overview & Goal
 
 The goal of this project is to consolidate key technical data, metadata, and core information into organized, easy-to-reference tables. Having a centralized overview like this helps speed up research, streamline decision-making, and eliminate the need to repeatedly look up scattered details across different sources.
