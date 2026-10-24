@@ -2,11 +2,20 @@
 
 > 🔍 **Quick Access:** **[Complete Master Report (`docs/all.md`)](docs/all.md)** — View all core metadata, documentation status, and OS/architecture support matrices combined in a single document.
 
+> [!IMPORTANT]
+> **Reporting Issues:** Please **do not** report upstream core, metadata, or documentation issues in this repository. 
+> - Report `.info` file issues to the [libretro-super issue tracker](https://github.com/libretro/libretro-super/issues).
+> - Report documentation issues to the [Libretro docs issue tracker](https://github.com/libretro/docs/issues).
+
 ## Overview & Goal
 
 The goal of this project is to consolidate key technical data, metadata, and core information into organized, easy-to-reference tables. Having a centralized overview like this helps speed up research, streamline decision-making, and eliminate the need to repeatedly look up scattered details across different sources.
 
 This aggregated data provides a convenient overview of supported operating systems and architectures for users, while also serving as a practical diagnostic tool for developers to identify missing or obsolete `.info` files and documentation across Libretro projects.
+
+This list provides a useful overview to identify any info files that are missing a core—sometimes representing a 'no core ever built' case rather than a 'core removed' scenario—or to clean up any redundant, vestigial files that should be removed.
+
+Eventually, perhaps these info files could be moved to a dedicated "coreless" sub-directory so that the main folder only contains files with active cores, keeping things a bit tidier for end users.
 
 This repository serves as an automated metadata parser and report generator that cross-references local Libretro core info files, documentation indexes, and Libretro Buildbot binary availability across platforms and architectures.
 
