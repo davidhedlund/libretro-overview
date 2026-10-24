@@ -1,0 +1,29 @@
+name: Bug Report
+description: Report an issue with this audit pipeline repository
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > **Reporting Issues:** Please **do not** report upstream core, metadata, or documentation issues in this repository. 
+        > - Report `.info` file issues to the [libretro-super issue tracker](https://github.com/libretro/libretro-super/issues).
+        > - Report documentation issues to the [Libretro docs issue tracker](https://github.com/libretro/docs/issues).
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Upstream Notice Acknowledgment
+      options:
+        - label: I confirm this issue is specific to this audit pipeline tool and is NOT an upstream core, `.info` file, or documentation issue.
+          required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue Description
+      description: Provide a clear description of the issue in this repository.
+      placeholder: Describe what happened...
+    validations:
+      required: true
