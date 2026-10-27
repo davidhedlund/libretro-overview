@@ -2,7 +2,7 @@ name: Generate Core Reports Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+    - cron: '17 3 * * *' # Runs every day at 03:17 UTC
   workflow_dispatch:     # Allows you to manually trigger it from the Actions tab
 
 permissions:
