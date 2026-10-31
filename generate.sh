@@ -418,7 +418,7 @@ if [[ "$generate_core_overview" = true ]]; then
         extract_cols 17 21 "Dingux"
         echo ""
 
-        echo "### Linux"
+        echo "### GNU/Linux"
         echo ""
         extract_cols 22 26 "Linux"
         echo ""
@@ -492,7 +492,7 @@ if [[ "$generate_core_overview" = true ]]; then
      - [Android](#android)
      - [Apple](#apple)
      - [Dingux](#dingux)
-     - [Linux](#linux)
+     - [GNU/Linux](#gnu/linux)
      - [Nintendo](#nintendo)
      - [PlayStation](#playstation)
      - [WebOS](#webos)
