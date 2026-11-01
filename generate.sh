@@ -492,7 +492,7 @@ if [[ "$generate_core_overview" = true ]]; then
      - [Android](#android)
      - [Apple](#apple)
      - [Dingux](#dingux)
-     - [GNU/Linux](#gnu/linux)
+     - [GNU/Linux](#gnulinux)
      - [Nintendo](#nintendo)
      - [PlayStation](#playstation)
      - [WebOS](#webos)
