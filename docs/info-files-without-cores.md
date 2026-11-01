@@ -16,7 +16,6 @@
 | [directxbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/directxbox_libretro.info) |
 | [dolphin_launcher_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/dolphin_launcher_libretro.info) |
 | [duckstation_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/duckstation_libretro.info) |
-| [eduke32_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eduke32_libretro.info) |
 | [eka2l1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eka2l1_libretro.info) |
 | [emucv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emucv_libretro.info) |
 | [emux_chip8_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emux_chip8_libretro.info) |
@@ -30,6 +29,7 @@
 | [freej2me_plus_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/freej2me_plus_libretro.info) |
 | [hyperscanemu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/hyperscanemu_libretro.info) |
 | [imageviewer_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/imageviewer_libretro.info) |
+| [jgenesis_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/jgenesis_libretro.info) |
 | [mame2009_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mame2009_libretro.info) |
 | [mess2015_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mess2015_libretro.info) |
 | [mgba_splitscreen_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mgba_splitscreen_libretro.info) |
