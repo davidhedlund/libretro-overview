@@ -3,7 +3,8 @@
 # Copyright (C) 2026 David Hedlund
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
-# Description: Compare local core info files against buildbot binary availability
+# Description: Libretro Overview - Compare local core info files
+# against buildbot binary availability.
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
