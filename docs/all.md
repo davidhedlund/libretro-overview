@@ -337,7 +337,7 @@
 | cap32 | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/cap32_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/cap32_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/cap32_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/cap32_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/cap32_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/cap32_libretro_tvos.dylib.zip) |
 | cdi2015 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | cemu | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/cemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/cemu_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/cemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/cemu_libretro.dylib.zip) |
-| chailove | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/chailove_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/chailove_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/chailove_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/chailove_libretro_tvos.dylib.zip) |
+| chailove | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/chailove_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/chailove_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/chailove_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/chailove_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/chailove_libretro_tvos.dylib.zip) |
 | citra | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/citra_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | citra2018 | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/citra2018_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | clownmdemu | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/clownmdemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/clownmdemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/clownmdemu_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/clownmdemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/clownmdemu_libretro.dylib.zip) |
@@ -2601,6 +2601,7 @@
 | [moonlight_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/moonlight_libretro.info) |
 | [mpv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mpv_libretro.info) |
 | [mupen64plus_next_develop_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_develop_libretro.info) |
+| [my386_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/my386_libretro.info) |
 | [nes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/nes_libretro.info) |
 | [onscripter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onscripter_libretro.info) |
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
@@ -2701,6 +2702,7 @@
 | [mkxp-z.md](https://github.com/libretro/docs/tree/master/docs/library/mkxp-z.md) |
 | [mr_boom.md](https://github.com/libretro/docs/tree/master/docs/library/mr_boom.md) |
 | [mupen64plus.md](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus.md) |
+| [my386.md](https://github.com/libretro/docs/tree/master/docs/library/my386.md) |
 | [neko_project_ii_kai.md](https://github.com/libretro/docs/tree/master/docs/library/neko_project_ii_kai.md) |
 | [nestopia_ue.md](https://github.com/libretro/docs/tree/master/docs/library/nestopia_ue.md) |
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |
